@@ -14,6 +14,7 @@ Complex baseband generated using sinusodial function to represent low frequency 
 Random Noise being added to Signals
 
 Waveform Generator to capture signals
+![image](https://github.com/awest0427/Digital-Filtering-Techniques/assets/167692889/d2428728-f5f8-4df9-a25f-79bf0a4c81f8)
 
 Plot Signals to observe the filters
 ![image](https://github.com/awest0427/Digital-Filtering-Techniques/assets/167692889/b03427d6-60ac-47c2-8a3d-238ef7e3b97d)
