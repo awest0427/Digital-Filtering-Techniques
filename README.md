@@ -86,5 +86,6 @@ Example of Low Pass Filter using the Filter Design and Analysis Tool
 
 The Digital Filtering pdf helps walk through the designing of the different filters and how to incorporate it into the MATLAB code.
 
+This was developed by Ariel Weston and Hani Chalingo for our term project for EE 6900.
 
 
