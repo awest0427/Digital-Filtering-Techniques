@@ -1,6 +1,5 @@
 # Digital Filtering Techniques
-A software defined radio(SDR) implements the functions of traditional radio hardware components
-(such as mixers, filters, and amplifiers) using software on a computer. In software defined radios, digital filtering techniques can be used for signal processing.
+A software defined radio(SDR) implements the functions of traditional radio hardware components (such as mixers, filters, and amplifiers) using software on a computer. In software defined radios, digital filtering techniques can be used for signal processing.
 
 The MATLAB code allows users design and analyze a variety of filters that would be applied to complex-baseband data to display the complex filtering. The following 4 standard filter types will be designed: lowpass, highpass, bandpass, and bandstop. 
 
@@ -9,15 +8,7 @@ The main tool used is the Filter Design and Analysis tool, which allows you to d
 Example of Low Pass Filter using the Filter Design and Analysis Tool
 ![image](https://github.com/awest0427/Digital-Filtering-Techniques/assets/167692889/476be309-c7df-4b2f-9fa4-50ce0424401e)
 
-Complex baseband generated using sinusodial function to represent low frequency and carrier sinusodial function to represent higher frequency.
 
-Random Noise being added to Signals
-
-Waveform Generator to capture signals
-![image](https://github.com/awest0427/Digital-Filtering-Techniques/assets/167692889/d2428728-f5f8-4df9-a25f-79bf0a4c81f8)
-
-Plot Signals to observe the filters
-![image](https://github.com/awest0427/Digital-Filtering-Techniques/assets/167692889/b03427d6-60ac-47c2-8a3d-238ef7e3b97d)
 
 
 
