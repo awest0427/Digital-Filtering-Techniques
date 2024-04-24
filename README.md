@@ -8,7 +8,7 @@ The main tool used is the Filter Design and Analysis tool, which allows you to d
 Example of Low Pass Filter using the Filter Design and Analysis Tool
 ![image](https://github.com/awest0427/Digital-Filtering-Techniques/assets/167692889/476be309-c7df-4b2f-9fa4-50ce0424401e)
 
-
+The Digital Filtering pdf helps walk through the designing of the different filters and how to incorporate it into the MATLAB code.
 
 
 
